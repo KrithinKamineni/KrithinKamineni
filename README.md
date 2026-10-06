@@ -4,6 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krithin-kamineni)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:kkam06@berkeley.edu)
 
+<p>
+  <a href="https://portfolio-puce-nine-10.vercel.app"><img src="https://img.shields.io/badge/Website-1a1a1a?style=plastic&logo=googlechrome&logoColor=white" height="30" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/krithin-kamineni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:kkam06@berkeley.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white" height="30" alt="Email" /></a>
+</p>
+
 ---
 
 Hello, World!! My name Krithin Kamineni and I am currently an undergrad student at [UC Berkeley](https://eecs.berkeley.edu) majoring in Electrical Engineering, working across software engineering and product. I like ideating and developing AI-powered tools that solve real problems for real people.
