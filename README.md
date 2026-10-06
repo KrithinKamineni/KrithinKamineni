@@ -6,7 +6,7 @@
 
 ---
 
-Hello, World!! My name Krithin Kamineni and I am currently an undergrad student at [UC Berkeley](https://eecs.berkeley.edu) majoring in Electrical Engineering, working across software engineering and product. I like ideating and developing AI-powered tools that solve real problems for real people.
+Hello, World! My name is Krithin Kamineni, and I am currently an undergrad student at [UC Berkeley](https://eecs.berkeley.edu) majoring in Electrical Engineering, working across software engineering and product. I like ideating and developing AI-powered tools that solve real problems for real people.
 
 - 💬 Outside of code, I love traveling, road trips, hiking, photography, car meets, cooking, listening to music, and playing and watching sports.
 - 📫 Reach out at **kkam06@berkeley.edu**
