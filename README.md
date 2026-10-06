@@ -1,5 +1,7 @@
 # Hi! My name is Krithin 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&vCenter=true&width=450&lines=EECS+%40+UC+Berkeley;software+engineer+%2B+product;building+AI-powered+tools" alt="Typing SVG" />
+
 [![Website](https://img.shields.io/badge/Website-1a1a1a?style=plastic&logo=googlechrome&logoColor=white)](https://krithinkamineni.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krithin-kamineni)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:kkam06@berkeley.edu)
@@ -17,10 +19,10 @@ Hello, World! My name is Krithin Kamineni, and I am currently an undergrad stude
 
 | project | what it is |
 |---|---|
-| [**Glean**](https://github.com/KrithinKamineni/Glean) · [live](https://glean-bay.vercel.app) | pantry-first meal planner: a multi-agent AI pipeline recommends recipes from what you already have, matched to your diet and macro targets (Next.js, FastAPI, Postgres) |
-| [**Swell**](https://github.com/KrithinKamineni/Swell) · [live](https://swell-six-alpha.vercel.app) | financial planning app for your first salary, with 6 connected tools for wealth modeling, job offer comparison and cash flow visualization |
-| [**Lighthouse**](https://devpost.com/software/lighthouse-o06q58) | hackathon project: reconciles conflicting official emergency alerts into one clear, household-specific instruction delivered by text |
-| [**Portfolio**](https://github.com/KrithinKamineni/Portfolio) · [live](https://krithinkamineni.com) | my personal site (Next.js + TypeScript) |
+| [**Glean**](https://github.com/KrithinKamineni/Glean) · [live](https://glean-bay.vercel.app) | Pantry-first meal planner: a multi-agent AI pipeline recommends recipes from what you already have, matched to your diet and macro targets (Next.js, FastAPI, Postgres) |
+| [**Swell**](https://github.com/KrithinKamineni/Swell) · [live](https://swell-six-alpha.vercel.app) | Financial planning app for your first salary, with 6 connected tools for wealth modeling, job offer comparison and cash flow visualization |
+| [**Lighthouse**](https://devpost.com/software/lighthouse-o06q58) | Hackathon project: reconciles conflicting official emergency alerts into one clear, household-specific instruction delivered by text |
+| [**Portfolio**](https://github.com/KrithinKamineni/Portfolio) · [live](https://krithinkamineni.com) | My personal site (Next.js + TypeScript) |
 
 ---
 
@@ -39,5 +41,12 @@ Hello, World! My name is Krithin Kamineni, and I am currently an undergrad stude
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=fff)
 
-<div align="center">
-</div>
+ 
+### stats
+ 
+<p>
+  <img src="https://streak-stats.demolab.com?user=KrithinKamineni&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrithinKamineni&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
