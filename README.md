@@ -1,6 +1,6 @@
 # Hi! My name is Krithin 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&vCenter=true&width=450&lines=EECS+%40+UC+Berkeley;software+engineer+%2B+product;building+AI-powered+tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E8B931&vCenter=true&width=450&lines=EECS+%40+UC+Berkeley;software+engineer+%2B+product;building+AI-powered+tools" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/Website-1a1a1a?style=plastic&logo=googlechrome&logoColor=white)](https://krithinkamineni.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krithin-kamineni)
@@ -15,9 +15,9 @@ Hello, World! My name is Krithin Kamineni, and I am currently an undergrad stude
 
 ---
 
-### projects
+### Projects
 
-| project | what it is |
+| Project | What it is |
 |---|---|
 | [**Glean**](https://github.com/KrithinKamineni/Glean) · [live](https://glean-bay.vercel.app) | Pantry-first meal planner: a multi-agent AI pipeline recommends recipes from what you already have, matched to your diet and macro targets (Next.js, FastAPI, Postgres) |
 | [**Swell**](https://github.com/KrithinKamineni/Swell) · [live](https://swell-six-alpha.vercel.app) | Financial planning app for your first salary, with 6 connected tools for wealth modeling, job offer comparison and cash flow visualization |
@@ -26,7 +26,7 @@ Hello, World! My name is Krithin Kamineni, and I am currently an undergrad stude
 
 ---
 
-### stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
@@ -41,12 +41,6 @@ Hello, World! My name is Krithin Kamineni, and I am currently an undergrad stude
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=fff)
 
- 
-### stats
- 
 <p>
-  <img src="https://streak-stats.demolab.com?user=KrithinKamineni&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrithinKamineni&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=KrithinKamineni&hide_border=true&background=0D1117&ring=E8B931&fire=E8B931&currStreakNum=E8B931&currStreakLabel=E8B931&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
 </p>
