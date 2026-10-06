@@ -47,7 +47,4 @@ Hello, World!! My name Krithin Kamineni and I am currently an undergrad student 
 ---
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrithinKamineni&show_icons=true&hide_border=true&count_private=true&bg_color=050505&title_color=f97316&icon_color=f97316&text_color=ededed&hide=stars)](https://github.com/KrithinKamineni)
-
 </div>
