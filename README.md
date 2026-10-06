@@ -1,12 +1,8 @@
-<div align="center">
-
 # Hi! My name is Krithin 👋
 
-[![Portfolio](https://img.shields.io/badge/portfolio-f97316?style=flat&logo=vercel&logoColor=000)](https://krithinkamineni.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/krithin-kamineni)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:kkam06@berkeley.edu)
-
-</div>
+[![Website](https://img.shields.io/badge/Website-1a1a1a?style=plastic&logo=googlechrome&logoColor=white)](https://krithinkamineni.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krithin-kamineni)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:kkam06@berkeley.edu)
 
 ---
 
