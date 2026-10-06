@@ -43,7 +43,5 @@ Hello, World!! My name Krithin Kamineni and I am currently an undergrad student 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=fff)
 
----
-
 <div align="center">
 </div>
