@@ -1,6 +1,6 @@
 # Hi! My name is Krithin 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E8B931&vCenter=true&width=450&lines=EECS+%40+UC+Berkeley;software+engineer+%2B+product;building+AI-powered+tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E8B931&vCenter=true&width=450&lines=EECS+%40+UC+Berkeley;Software+engineer+%2B+Product;Building+AI-powered+tools" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/Website-1a1a1a?style=plastic&logo=googlechrome&logoColor=white)](https://krithinkamineni.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krithin-kamineni)
