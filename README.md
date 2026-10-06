@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KrithinKamineni/KrithinKamineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! My name is Krithin 👋
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/portfolio-f97316?style=flat&logo=vercel&logoColor=000)](https://krithinkamineni.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/krithin-kamineni)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:kkam06@berkeley.edu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+Hello, World!! My name Krithin Kamineni and I am currently an undergrad student at [UC Berkeley](https://eecs.berkeley.edu) majoring in Electrical Engineering, working across software engineering and product. I like ideating and developing AI-powered tools that solve real problems for real people.
+
+- 💬 Outside of code, I love traveling, road trips, hiking, photography, car meets, cooking, listening to music, and playing and watching sports.
+- 📫 Reach out at **kkam06@berkeley.edu**
+
+---
+
+### projects
+
+| project | what it is |
+|---|---|
+| [**Glean**](https://github.com/KrithinKamineni/Glean) · [live](https://glean-bay.vercel.app) | pantry-first meal planner: a multi-agent AI pipeline recommends recipes from what you already have, matched to your diet and macro targets (Next.js, FastAPI, Postgres) |
+| [**Swell**](https://github.com/KrithinKamineni/Swell) · [live](https://swell-six-alpha.vercel.app) | financial planning app for your first salary, with 6 connected tools for wealth modeling, job offer comparison and cash flow visualization |
+| [**Lighthouse**](https://devpost.com/software/lighthouse-o06q58) | hackathon project: reconciles conflicting official emergency alerts into one clear, household-specific instruction delivered by text |
+| [**Portfolio**](https://github.com/KrithinKamineni/Portfolio) · [live](https://krithinkamineni.com) | my personal site (Next.js + TypeScript) |
+
+---
+
+### stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=fff)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrithinKamineni&show_icons=true&hide_border=true&count_private=true&bg_color=050505&title_color=f97316&icon_color=f97316&text_color=ededed&hide=stars)](https://github.com/KrithinKamineni)
+
+</div>
